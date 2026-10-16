@@ -120,9 +120,28 @@ An AI-powered healthcare platform concept focused on voice-based symptom checkin
 
 ## 🤝 Let's Connect
 
-I'm interested in collaborating on AI projects, open-source development, and innovative software solutions.
+I'm interested in collaborating on AI projects, open-source development, and innovative software solutions. Feel free to connect with me!
 
 <div align="center">
+
+<a href="https://www.linkedin.com/in/bhaskar-sanam-443213290/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" width="45" height="45" alt="Instagram" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Bhaskar2522" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:bhaskarsanam2522@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" alt="Gmail" />
+</a>
+
+
+</div>
 
 **Thanks for visiting my profile! ⭐**
 
