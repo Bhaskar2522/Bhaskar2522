@@ -123,11 +123,20 @@ An AI-powered healthcare platform concept focused on voice-based symptom checkin
 
 ### 📈 Contribution Activity
 
+## 📈 Contribution Activity
+
 <div align="center">
 
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bhaskar2522&bg_color=0D1117&color=58A6FF&line=39D5FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Contribution Activity Graph" />
+  <a href="https://github.com/Bhaskar2522">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Bhaskar2522&theme=github-compact&bg_color=0D1117&color=58A6FF&line=39D5FF&point=FFFFFF&area=true&hide_border=true"
+      alt="Bhaskar's GitHub Contribution Activity Graph"
+      width="100%"
+    />
+  </a>
 
 </div>
+
 
 ## 🤝 Let's Connect
 
