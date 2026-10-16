@@ -6,15 +6,15 @@
 
 *Building intelligent AI systems and full-stack applications.*
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Bhaskar2522&label=PROFILE%20VIEWS&color=58A6FF&style=for-the-badge" alt="Profile views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhaskar2522&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p>
   <a href="https://github.com/Bhaskar2522">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="[YOUR_LINKEDIN_UR](https://www.linkedin.com/in/bhaskar-sanam-443213290/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:bhaskarsanam2522@gmail.com">
