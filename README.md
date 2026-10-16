@@ -109,14 +109,25 @@ An AI-powered healthcare platform concept focused on voice-based symptom checkin
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bhaskar2522&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaskar2522&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bhaskar2522&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=39D5FF&text_color=C9D1D9&ring_color=58A6FF" alt="Bhaskar's GitHub Statistics" />
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=Bhaskar2522&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaskar2522&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most Used Languages" />
+
+  <br/><br/>
+
+  <img width="80%" src="https://streak-stats.demolab.com/?user=Bhaskar2522&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=39D5FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Contribution Streak" />
 
 </div>
 
 ---
+
+### 📈 Contribution Activity
+
+<div align="center">
+
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bhaskar2522&bg_color=0D1117&color=58A6FF&line=39D5FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Contribution Activity Graph" />
+
+</div>
 
 ## 🤝 Let's Connect
 
