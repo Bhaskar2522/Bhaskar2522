@@ -1,33 +1,37 @@
- <div align="center">
+<div align="center">
 
-# Hi 👋, I'm Bhaskar Sanam
+# 👋 Hi, I'm Bhaskar Sanam
 
-### Aspiring AI Engineer | Generative AI | Multi-Agent Systems | Full-Stack Developer
+### Aspiring AI Engineer | Generative AI | Multi-Agent Systems
+
+*Building intelligent AI systems and full-stack applications.*
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Bhaskar2522&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Bhaskar2522&label=PROFILE%20VIEWS&color=58A6FF&style=for-the-badge" alt="Profile views" />
 </p>
 
 <p>
   <a href="https://github.com/Bhaskar2522">
-    <img src="https://img.shields.io/badge/GitHub-Bhaskar2522-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:bhaskarsanam2522@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://csesaorchathon.in/">
-    <img src="https://img.shields.io/badge/Orchathon-Website-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Orchathon website" />
+    <img src="https://img.shields.io/badge/Orchathon-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Orchathon" />
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=60&lines=Building+Multi-Agent+AI+Systems+%F0%9F%A4%96;Exploring+Generative+AI+%26+LLMs+%F0%9F%A7%A0;Turning+Ideas+Into+Real-World+Solutions+%F0%9F%9A%80" alt="Typing animation" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&height=55&lines=Building+Multi-Agent+AI+Systems+%F0%9F%A4%96;Exploring+Generative+AI+%26+LLMs+%F0%9F%A7%A0;Turning+Ideas+Into+Real-World+Solutions+%F0%9F%9A%80" alt="Animated tagline" />
 
 ---
+
+**Python · Generative AI · LLMs · RAG · FastAPI · React/Next.js**
+
+</div>
 
 ## 👨‍💻 About Me
 
