@@ -1,29 +1,127 @@
-<h1 align="center">Hi 👋, I'm Bhaskar Sanam</h1>
-<h3 align="center">Aspiring AI Engineer | Generative AI | Multi-Agent Systems | Full-Stack Developer</h3>
+ <div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaskar2522&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskar2522" /> </p>
+# Hi 👋, I'm Bhaskar Sanam
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhaskar2522" alt="bhaskar2522" /></a> </p>
+### Aspiring AI Engineer | Generative AI | Multi-Agent Systems | Full-Stack Developer
 
-- 🤖 Building [G-One – Multi-Agent AI Automation](https://drive.google.com/file/d/1AelGApINAUp86-kMy5KMXltMsVqiyItU/view?usp=drive_link)
-
-- 🌱 I’m currently learning **Advanced Python, RAG, LLMs, AI Agents, FastAPI**
-
-- 🤝 AI and open-source projects [Orchathon 2026: Hackathon Website](https://csesaorchathon.in/)
-
-- 🤝 AI and open-source projects **MED-AI – AI Healthcare Platform**
-
-- 📫 How to reach me **bhaskarsanam2522@gmail,com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Bhaskar2522&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p>
+  <a href="https://github.com/Bhaskar2522">
+    <img src="https://img.shields.io/badge/GitHub-Bhaskar2522-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:bhaskarsanam2522@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://csesaorchathon.in/">
+    <img src="https://img.shields.io/badge/Orchathon-Website-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Orchathon website" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaskar2522&show_icons=true&locale=en&layout=compact" alt="bhaskar2522" /></p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=60&lines=Building+Multi-Agent+AI+Systems+%F0%9F%A4%96;Exploring+Generative+AI+%26+LLMs+%F0%9F%A7%A0;Turning+Ideas+Into+Real-World+Solutions+%F0%9F%9A%80" alt="Typing animation" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhaskar2522&show_icons=true&locale=en" alt="bhaskar2522" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskar2522&" alt="bhaskar2522" /></p>
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech Computer Science and Engineering student, graduating in 2027.
+- 🤖 Interested in Generative AI, LLMs, RAG, and multi-agent systems.
+- 🚀 Building **G-One**, a multi-agent AI automation system.
+- 🌐 Developed the official website for **Orchathon 2026**.
+- 🏆 Recognized among the Top 50 in the VOIS Innovation Marathon 2026.
+- 🌱 Currently exploring advanced Python, AI agents, RAG, and FastAPI.
+
+## 🛠️ Languages and Tools
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,java,js,ts,sql" alt="Programming languages" />
+</p>
+
+### Frontend and Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,nodejs,fastapi" alt="Web development technologies" />
+</p>
+
+### AI, Data and Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,pytorch,tensorflow,sklearn,git,github,firebase" alt="AI and development tools" />
+</p>
+
+**AI Focus:** Generative AI · Large Language Models · Retrieval-Augmented Generation · Multi-Agent Systems · Ollama · Mistral · LoRA
+
+## 🚀 Featured Projects
+
+### 🤖 G-One — Multi-Agent AI Automation System
+
+A modular AI system designed to automate real-world tasks using agentic workflows.
+
+- Designed a centralized routing engine to improve reliability and reduce hallucinations.
+- Built a voice-enabled interface with an interactive 3D UI.
+- Integrated local AI processing using Ollama, Mistral, and LoRA adapters.
+- **Achievement:** Top 50 recognition in the VOIS Innovation Marathon 2026.
+
+**Tech Stack:** React/Next.js · FastAPI · MongoDB · Ollama · Mistral · LoRA
+
+[📄 View G-One Project](https://drive.google.com/file/d/1AelGApINAUp86-kMy5KMXltMsVqiyItU/view?usp=drive_link) · [💻 GitHub Repositories](https://github.com/Bhaskar2522?tab=repositories)
+
+### 🌐 Orchathon 2026 — Hackathon Website
+
+Developed a responsive website for a college hackathon with event information and registration functionality.
+
+**Focus:** Full-Stack Web Development
+
+[🌍 Visit csesaorchathon.in](https://csesaorchathon.in/)
+
+### 🏥 MED-AI — AI Healthcare Platform
+
+An AI-powered healthcare platform concept focused on voice-based symptom checking, AI-generated health reports, and digital healthcare services.
+
+**Focus:** AI Integration · Healthcare Technology · Web Applications
+
+## 🏆 Achievements
+
+- 🥇 Winner — Web Crafting Contest, Bharat Ratna Indira Gandhi College of Engineering.
+- 🏅 Top 50 — VOIS Innovation Marathon 2026.
+- 🚀 Hackathon Finalist — New Satara College of Engineering.
+- 🚀 Hackathon Finalist — A.G. Patil Institute of Technology.
+- 🚀 Hackathon Finalist — CMR HackFest 3.0.
+
+## 📜 Certifications
+
+- NPTEL — SQL Certification
+- HackerRank — C Programming
+- HackerRank — Java
+- Edunet & Vodafone Idea — Machine Learning Program
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bhaskar2522&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaskar2522&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=Bhaskar2522&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in collaborating on AI projects, open-source development, and innovative software solutions.
+
+<div align="center">
+
+**Thanks for visiting my profile! ⭐**
+
+*Building intelligent solutions, one project at a time.*
+
+</div>
