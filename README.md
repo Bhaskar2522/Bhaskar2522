@@ -105,21 +105,6 @@ An AI-powered healthcare platform concept focused on voice-based symptom checkin
 - HackerRank — Java
 - Edunet & Vodafone Idea — Machine Learning Program.
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-  <a href="https://github.com/Bhaskar2522">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Bhaskar2522&theme=github-compact&bg_color=0D1117&color=58A6FF&line=39D5FF&point=FFFFFF&area=true&hide_border=true"
-      alt="Bhaskar's GitHub Contribution Activity Graph"
-      width="100%"
-    />
-  </a>
-
-</div>
-
-
 ## 🤝 Let's Connect
 
 I'm interested in collaborating on AI projects, open-source development, and innovative software solutions. Feel free to connect with me!
